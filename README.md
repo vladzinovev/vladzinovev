@@ -28,12 +28,20 @@ EMAIL: vladozdeveloper@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vladzinovev&theme=onestar&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladzinovev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladzinovev&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vladzinovev&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladzinovev&theme=dark) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladzinovev&theme=dark)](https://git.io/streak-stats)
+
+
+
+
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladzinovev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vladzinovev&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
