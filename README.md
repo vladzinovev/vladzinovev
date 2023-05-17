@@ -24,14 +24,14 @@ EMAIL: vladozdeveloper@gmail.com
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vladzinovev&theme=onestar&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vladzinovev&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladzinovev&theme=dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladzinovev&theme=dark) -->
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladzinovev&theme=dark) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladzinovev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladzinovev)](https://git.io/streak-stats)
 
 
 
@@ -39,7 +39,7 @@ EMAIL: vladozdeveloper@gmail.com
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladzinovev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vladzinovev&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vladzinovev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -57,3 +57,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
