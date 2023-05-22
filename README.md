@@ -24,7 +24,7 @@ EMAIL: vladozdeveloper@gmail.com
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vladzinovev&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vladzinovev)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladzinovev&theme=dark) -->
